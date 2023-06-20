@@ -25,3 +25,16 @@ echo "The number of lines in the resultant file is $lines."
 echo "The number of words in the resultant file is $words."
 echo "The number of characters in the resultant file is $chars."
 cat sorted.txt
+
+<<output
+  The number of lines in the resultant file is 10.
+  The number of words in the resultant file is 50.
+  The number of characters in the resultant file is 250.
+  world
+  hello
+  this
+  is
+  a
+  test
+  file
+output
