@@ -20,3 +20,8 @@ done
 
 # Print the number of prime numbers
 echo "There are $count prime numbers in the range $lower-$upper."
+
+
+<<output
+  There are 8 prime numbers in the range 10-20.
+output
